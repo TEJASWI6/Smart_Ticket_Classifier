@@ -1,0 +1,7 @@
+ticket_num,email,text,category,confidence,timestamp,user_role,status,notes,priority,user_confirmation,user_feedback
+TCKT-20250719-1247F5,tejaswi0676@gmail.com,i havent recieved my order,Complaint,0.932,2025-07-19 21:45:10,user,Resolved,,High,Confirmed,5.0
+TCKT-20250719-8FC9CE,tejaswi0676@gmail.com,delivery is late,Complaint,0.978,2025-07-19 22:10:19,user,Resolved,,High,Confirmed,4.0
+TCKT-20250719-C9F0FF,tejaswi0676@gmail.com,hey i have paid twice for my order,Billing,0.953,2025-07-19 21:42:42,user,Resolved,imp,Medium,Confirmed,3.0
+TCKT-20250719-24C4D9,tejaswi0676@gmail.com,my order was not recieved,Complaint,0.983,2025-07-19 21:38:55,user,Unresolved,,Medium,Pending,
+TCKT-20250720-DDD44D,tejaswi0676@gmail.com,I would like to bring to your attention that i have charged twice for my order,Billing,0.981,2025-07-20 13:46:56,user,Resolved,urgent,Medium,Confirmed,5.0
+TCKT-20250719-4D0FCF,madhulekha723@gmail.com,i have paid twice to my order,Billing,0.983,2025-07-19 22:07:14,user,Unresolved,,Low,Pending,

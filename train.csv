@@ -1,0 +1,622 @@
+text,category
+"I can't log in to my account",Technical
+"Please help with billing issue",Billing
+"Delivery is late",Complaint
+"How to return the product?",General
+"Thanks for the quick support",Other
+"Need help with refund",Billing
+"My order has not arrived",Complaint
+"Unable to access the app",Technical
+"Where is my invoice?",Billing
+"What is the return policy?",General
+"App keeps crashing on startup",Technical
+"I was charged twice for my order",Billing
+"Received wrong item",Complaint
+"Do you ship internationally?",General
+"Thank you for resolving my issue",Other
+"Internet speed is too slow",Technical
+"I want to update my card details",Billing
+"My order got cancelled automatically",Complaint
+"Where can I track my order?",General
+"App is showing black screen",Technical
+"Appreciate the prompt response",Other
+"I want to change my subscription plan",Billing
+"Package was delivered to wrong address",Complaint
+"Can I speak to a customer executive?",General
+"Great service, very helpful",Other
+"How do I reset my password?",Technical
+"I need a refund for my last purchase",Billing
+"Product arrived damaged",Complaint
+"How do I contact support?",General
+"App is not working on my phone",Technical
+"Billing statement is incorrect",Billing
+"Order was not processed correctly",Complaint
+"Can I get a discount on my next purchase?",General
+"Thank you for your assistance",Other
+"How do I change my account settings?",Technical
+"I was charged for a service I didn't use",Billing
+"Received a defective product",Complaint
+"How do I cancel my subscription?",General
+"App is running very slow",Technical
+"I need to update my shipping address",Billing
+"My package is missing",Complaint
+"Can you help me with my account?",General
+"Excellent customer service",Other
+"How do I report a bug in the app?",Technical
+"I want to dispute a charge",Billing
+"Received the wrong size",Complaint
+"How do I provide feedback?",General
+"Thank you for the great support",Other
+"App is not compatible with my device",Technical
+"I need to change my billing address",Billing
+"My order was delivered late",Complaint
+"How do I check my order status?",General
+"App is crashing frequently",Technical
+"I want to upgrade my account",Billing
+"Received a damaged item",Complaint
+"How do I get a copy of my receipt?",General
+"Thanks for the quick resolution",Other
+"App is not loading",Technical
+"I need to cancel my order",Billing
+"My item was delivered to the wrong location",Complaint
+"How do I contact technical support?",General
+"Great job, very satisfied",Other
+"How do I change my email address?",Technical
+"I was charged for a service I didn't authorize",Billing
+"Received a product that doesn't match the description",Complaint
+"How do I request a feature?",General
+"Thank you for your help",Other
+"App is not responding",Technical
+"I need to update my payment method",Billing
+"My order was not delivered",Complaint
+"How do I get in touch with customer service?",General
+"Excellent support, very responsive",Other
+"How do I report an issue with the app?",Technical
+"I want to change my subscription details",Billing
+"Received a product that is not working",Complaint
+"How do I check my account balance?",General
+"Thanks for the assistance",Other
+"App is freezing frequently",Technical
+"I need to update my account information",Billing
+"My package was damaged during delivery",Complaint
+"How do I get help with my order?",General
+"Great service, very efficient",Other
+"How do I reset my app settings?",Technical
+"I was charged incorrectly",Billing
+"Received a product that is not as described",Complaint
+"How do I provide a review?",General
+"Thank you for the prompt support",Other
+"App is not functioning properly",Technical
+"I need to change my shipping method",Billing
+"My order was not processed",Complaint
+"How do I get a refund?",General
+"Excellent customer service, very helpful",Other
+"How do I report a problem with the app?",Technical
+"I want to update my account preferences",Billing
+"Received a product that is damaged",Complaint
+"How do I check my order history?",General
+"Thanks for the great service",Other
+"App is not working on my device",Technical
+"I need to cancel my subscription",Billing
+"My package was delivered to the wrong address",Complaint
+"How do I contact support for my order?",General
+"Great job, very helpful",Other
+"How do I change my account password?",Technical
+"I was charged for a service I didn't request",Billing
+"Received a product that is not functioning",Complaint
+"How do I request a refund?",General
+"Thank you for your assistance",Other
+"App is not loading properly",Technical
+"Can't open the application",Technical
+"My software won't update",Technical
+"Login attempt failed repeatedly",Technical
+"Facing an error code 404 on your website",Technical
+"My account is locked out",Technical
+"The website is displaying a blank page",Technical
+"My device is not connecting to the service",Technical
+"Browser extension isn't working",Technical
+"Can't download the latest version of the app",Technical
+"Video streaming is buffering constantly",Technical
+"Audio is not playing through the app",Technical
+"My microphone isn't recognized by the software",Technical
+"The camera feed is frozen",Technical
+"Can't upload files to the platform",Technical
+"Download speed is extremely slow",Technical
+"My settings are not saving",Technical
+"The application crashes every time I open it",Technical
+"I'm unable to log out of my session",Technical
+"Notifications are not showing up",Technical
+"The interface is unresponsive",Technical
+"My screen is flickering when using the app",Technical
+"Can't access certain features",Technical
+"The program is stuck on a loading screen",Technical
+"My data isn't syncing across devices",Technical
+"Unable to print from the application",Technical
+"The app is consuming too much battery",Technical
+"I can't hear anyone on the call",Technical
+"My keyboard inputs are not registering",Technical
+"The mouse cursor disappears within the app",Technical
+"Can't resize the application window",Technical
+"The font appears corrupted",Technical
+"Images are not loading on the page",Technical
+"The search function isn't working",Technical
+"Links are not clickable",Technical
+"The page keeps refreshing unexpectedly",Technical
+"Can't paste text into the field",Technical
+"The 'undo' button is grayed out",Technical
+"My profile picture isn't showing",Technical
+"The progress bar is stuck at 0%",Technical
+"Can't switch between accounts",Technical
+"The app is draining my mobile data",Technical
+"My password reset link isn't arriving",Technical
+"Security warning popped up when using the site",Technical
+"The app won't install on my device",Technical
+"Performance issues with the application",Technical
+"I'm experiencing lag in the software",Technical
+"The app is freezing intermittently",Technical
+"My session keeps timing out",Technical
+"Can't find the 'save' button",Technical
+"Payment gateway failed",Billing
+"My credit card was declined",Billing
+"I see an unauthorized charge on my statement",Billing
+"Subscription renewal was incorrect",Billing
+"My invoice shows an old address",Billing
+"I was double-charged for a single item",Billing
+"Need a copy of my last bill",Billing
+"How do I update my payment information?",Billing
+"My refund has not been processed yet",Billing
+"I was charged for a free trial",Billing
+"Can I get a breakdown of my charges?",Billing
+"My payment method needs to be changed",Billing
+"There's a discrepancy in my billing history",Billing
+"I want to cancel my recurring payment",Billing
+"My balance is incorrect",Billing
+"Need to combine two separate bills",Billing
+"Why was I charged for a service I canceled?",Billing
+"The promotional discount wasn't applied",Billing
+"I need to dispute a recent transaction",Billing
+"My account shows an overdue amount",Billing
+"Can I pay with a different currency?",Billing
+"I'm being charged for inactive services",Billing
+"My payment didn't go through but funds were debited",Billing
+"I want to remove my stored card details",Billing
+"My current plan's cost is higher than advertised",Billing
+"I received a bill for someone else's account",Billing
+"The billing date is inconvenient",Billing
+"Can I pause my subscription billing?",Billing
+"I was charged before my trial ended",Billing
+"My billing address is incorrect on the invoice",Billing
+"Need to change my billing cycle",Billing
+"I'm unable to make a payment online",Billing
+"Why was my payment rejected?",Billing
+"My auto-pay didn't go through",Billing
+"I need an itemized bill",Billing
+"My current charges are unclear",Billing
+"Can I switch to a different payment plan?",Billing
+"I was charged for an upgrade I didn't authorize",Billing
+"My loyalty points weren't applied to the bill",Billing
+"The tax amount seems wrong",Billing
+"I need to split my bill with someone else",Billing
+"Can I defer my payment?",Billing
+"I'm being charged for a service I never used",Billing
+"My billing statement is missing details",Billing
+"I want to set up automatic payments",Billing
+"The final charge was different from the estimate",Billing
+"My account shows a credit balance that's not reflecting",Billing
+"I need to re-issue an invoice",Billing
+"The wrong plan was billed to me",Billing
+"I want to understand my bill better",Billing
+"Order arrived broken",Complaint
+"Product quality is very poor",Complaint
+"My package is missing items",Complaint
+"The delivery person left the package exposed",Complaint
+"Received the wrong color item",Complaint
+"The item description was misleading",Complaint
+"My order was extremely delayed",Complaint
+"The customer service was unhelpful",Complaint
+"I was promised a call back but never received one",Complaint
+"The return process is too complicated",Complaint
+"My issue hasn't been resolved yet",Complaint
+"The product arrived scratched",Complaint
+"I'm unhappy with the service provided",Complaint
+"My recent interaction was unsatisfactory",Complaint
+"The product is not as advertised",Complaint
+"The packaging was damaged upon arrival",Complaint
+"My complaint hasn't been addressed",Complaint
+"The delivery window was missed",Complaint
+"I received an empty box",Complaint
+"The product stopped working after a day",Complaint
+"The installation service was subpar",Complaint
+"I'm highly dissatisfied with my purchase",Complaint
+"The product arrived with a missing part",Complaint
+"My refund request is taking too long",Complaint
+"The item causes a safety concern",Complaint
+"The warranty claim was denied unfairly",Complaint
+"I was given incorrect information",Complaint
+"The product is making strange noises",Complaint
+"My order was partially delivered",Complaint
+"The repair service failed to fix the issue",Complaint
+"I'm disappointed with the product's performance",Complaint
+"The delivery was left at the wrong doorstep",Complaint
+"The product is not compatible as stated",Complaint
+"My recent experience was frustrating",Complaint
+"The support representative was rude",Complaint
+"The product is defective",Complaint
+"I'm still waiting for a resolution",Complaint
+"The item doesn't fit correctly",Complaint
+"The product smells bad",Complaint
+"My order was cancelled without my consent",Complaint
+"The product is not durable",Complaint
+"The delivery person didn't follow instructions",Complaint
+"I was overcharged for the product itself",Complaint
+"The product broke immediately after use",Complaint
+"My concern was dismissed",Complaint
+"The product looks different from the pictures",Complaint
+"The product makes an annoying sound",Complaint
+"The item is too small/large",Complaint
+"I received a counterfeit product",Complaint
+"The product is not working as expected",Complaint
+"How do I track my delivery?",General
+"What are your operating hours?",General
+"Can I change my delivery address?",General
+"What payment methods do you accept?",General
+"Do you offer gift wrapping?",General
+"What is your privacy policy?",General
+"Where can I find product specifications?",General
+"How do I apply a discount code?",General
+"Can I pre-order upcoming products?",General
+"What is the average shipping time?",General
+"Do you have a physical store?",General
+"How can I unsubscribe from marketing emails?",General
+"What are the system requirements for your software?",General
+"Do you offer student discounts?",General
+"How do I leave a product review?",General
+"Can I combine multiple orders?",General
+"What is your policy on data usage?",General
+"How do I sign up for your newsletter?",General
+"Do you offer technical support for older products?",General
+"What is the shelf life of this product?",General
+"How do I report a suspicious email?",General
+"Can I purchase extended warranty?",General
+"What are your holiday hours?",General
+"How do I find out about promotions?",General
+"Do you ship to my country?",General
+"What is the maximum quantity I can order?",General
+"How do I claim my warranty?",General
+"What are the benefits of creating an account?",General
+"Can I customize my order?",General
+"What is the status of my repair?",General
+"How do I transfer my account to a new owner?",General
+"Do you offer group discounts?",General
+"What is the process for collaborations?",General
+"How do I update my notification preferences?",General
+"Can I try the product before buying?",General
+"What is your commitment to sustainability?",General
+"How do I register my product?",General
+"Do you have a mobile app?",General
+"What security measures do you have in place?",General
+"How do I opt out of data sharing?",General
+"Can I use store credit online?",General
+"What are the installation steps?",General
+"How do I get an estimate for a service?",General
+"Do you offer trade-ins?",General
+"What are the terms of service?",General
+"How do I find compatible accessories?",General
+"Can I reschedule my appointment?",General
+"What is your response time for inquiries?",General
+"How do I get a custom quote?",General
+"Do you provide training for your software?",General
+"Appreciate the excellent assistance",Other
+"Very satisfied with the outcome",Other
+"Thanks for the prompt follow-up",Other
+"Great communication throughout",Other
+"I'm impressed with your service",Other
+"Couldn't ask for better support",Other
+"Highly recommend your team",Other
+"You guys are doing a fantastic job",Other
+"Wonderful experience, thank you",Other
+"My issue was resolved quickly and efficiently",Other
+"A big thank you to the support team",Other
+"Pleasure doing business with you",Other
+"You exceeded my expectations",Other
+"I'm very grateful for your help",Other
+"Keep up the good work!",Other
+"This was a seamless experience",Other
+"Fantastic job, truly appreciated",Other
+"Your team is a lifesaver",Other
+"The best customer service I've encountered",Other
+"I'm a very happy customer",Other
+"Thanks for going the extra mile",Other
+"You made my day, thank you",Other
+"So glad I chose your service",Other
+"Exceptional support from start to finish",Other
+"My problem was handled with care",Other
+"Very professional and courteous",Other
+"Couldn't be more pleased",Other
+"You've earned a loyal customer",Other
+"Outstanding service, truly",Other
+"I'll definitely recommend you",Other
+"Thanks for the speedy resolution",Other
+"You're a credit to the company",Other
+"My thanks for your patience",Other
+"This was a positive interaction",Other
+"Your help was invaluable",Other
+"Highly satisfied with the resolution",Other
+"You've restored my faith in customer service",Other
+"What a great experience!",Other
+"Thank you for understanding my situation",Other
+"Your quick action was impressive",Other
+"I'm really happy with the support",Other
+"This was surprisingly easy",Other
+"You made everything clear and simple",Other
+"Thanks for making it right",Other
+"I appreciate your dedication",Other
+"You're doing great work",Other
+"This truly helped me out",Other
+"Couldn't have done it without you",Other
+"You were a pleasure to deal with",Other
+"Fantastic customer journey",Other
+"Need assistance with my smart home device",Technical
+"My wearable device is not syncing data",Technical
+"The smart thermostat isn't responding",Technical
+"Trouble connecting my smart lighting system",Technical
+"My security camera feed is black",Technical
+"Voice assistant isn't recognizing commands",Technical
+"Smart plug is not turning on/off",Technical
+"My smart lock isn't locking/unlocking remotely",Technical
+"Can't pair my smart speaker",Technical
+"The app for my smart appliance keeps crashing",Technical
+"Smart sensor isn't detecting motion",Technical
+"My smart display is showing incorrect time",Technical
+"The smart doorbell isn't ringing through the app",Technical
+"Automated routine isn't triggering",Technical
+"My smart pet feeder is offline",Technical
+"The smart mirror isn't displaying information",Technical
+"Smart sprinkler system isn't watering",Technical
+"My smart blinds are stuck open/closed",Technical
+"The smart aroma diffuser isn't working",Technical
+"Smart tracking device isn't updating location",Technical
+"My smart scale isn't recording weight",Technical
+"The smart fan isn't changing speed",Technical
+"My smart coffee maker isn't brewing",Technical
+"Smart oven isn't preheating",Technical
+"My smart refrigerator isn't cooling properly",Technical
+"The smart washing machine is stuck mid-cycle",Technical
+"Smart dryer isn't drying clothes",Technical
+"My smart dishwasher isn't cleaning dishes",Technical
+"The smart vacuum cleaner isn't charging",Technical
+"Smart robot isn't responding to commands",Technical
+"My smart TV isn't connecting to Wi-Fi",Technical
+"Streaming device is not playing content",Technical
+"The remote control for my smart device isn't working",Technical
+"Smart home hub is offline",Technical
+"My smart garden sensor isn't reporting data",Technical
+"The smart air purifier isn't turning on",Technical
+"My smart water leak detector isn't alerting",Technical
+"Smart baby monitor isn't showing video",Technical
+"The smart smoke detector isn't sending notifications",Technical
+"My smart CO detector is beeping constantly",Technical
+"Smart window isn't closing automatically",Technical
+"The smart bed isn't adjusting firmness",Technical
+"My smart fitness equipment isn't tracking progress",Technical
+"Smart guitar isn't tuning",Technical
+"The smart skateboard isn't accelerating",Technical
+"My smart helmet isn't connecting to phone",Technical
+"Smart bicycle isn't showing ride data",Technical
+"The smart drone isn't taking off",Technical
+"My smart toy isn't responding",Technical
+"Smart pen isn't writing digitally",Technical
+"I was charged for a premium feature I didn't enable",Billing
+"My recurring payment for the smart service failed",Billing
+"The billing for my smart device warranty is incorrect",Billing
+"I see a charge for a smart home subscription I don't have",Billing
+"Need to update billing for my smart appliance protection plan",Billing
+"My smart device subscription plan is showing the wrong price",Billing
+"I was charged for a data plan on my smart watch I didn't use",Billing
+"Can I get a refund for my smart home security monitoring service?",Billing
+"My smart energy meter bill seems too high",Billing
+"The billing for my smart car charging is wrong",Billing
+"I was charged for an accidental smart device purchase",Billing
+"Need to change the payment method for my smart lighting subscription",Billing
+"My smart pet feeder's food delivery plan was billed incorrectly",Billing
+"The monthly fee for my smart lock service is inaccurate",Billing
+"I need an invoice for my smart thermostat installation",Billing
+"My smart speaker extended warranty billing is disputed",Billing
+"I was billed for smart home consultation that didn't happen",Billing
+"The charge for my smart garden irrigation system is wrong",Billing
+"Can I get a credit for my smart air purifier filter subscription?",Billing
+"My smart display music service billing is incorrect",Billing
+"The smart scale premium features charge is unauthorized",Billing
+"I was charged for a smart appliance repair that wasn't completed",Billing
+"Need to adjust the billing for my smart TV streaming services",Billing
+"My smart robot vacuum's consumable subscription bill is wrong",Billing
+"The smart home hub service fee is incorrect on my statement",Billing
+"I was charged for a smart security camera cloud storage plan I cancelled",Billing
+"Need to clarify the charges for my smart fitness app subscription",Billing
+"My smart bed's sleep tracking premium feature was billed twice",Billing
+"The smart window automation service bill is higher than expected",Billing
+"I was charged for a smart water leak detector I returned",Billing
+"My smart grill's recipe subscription billing seems off",Billing
+"The smart doorbell's video storage plan was billed incorrectly",Billing
+"I need to cancel the billing for my smart baby monitor premium features",Billing
+"My smart smoke detector's professional monitoring charge is wrong",Billing
+"The smart mirror's health tracking subscription bill is disputed",Billing
+"I was charged for a smart bicycle maintenance plan I didn't sign up for",Billing
+"Need to review the billing for my smart car connectivity services",Billing
+"My smart helmet's ride tracking subscription cost is inaccurate",Billing
+"The smart drone's flight data storage plan was billed without consent",Billing
+"I was charged for a smart toy's game expansion pack I didn't buy",Billing
+"The smart pen's digital ink subscription billing is incorrect",Billing
+"My smart fishing lure's battery subscription is wrong",Billing
+"The smart golf club's swing analysis plan was billed incorrectly",Billing
+"I was charged for a smart leash GPS tracking service I don't use",Billing
+"My smart diaper sensor's data plan is showing an incorrect amount",Billing
+"The smart pacifier's vital signs monitoring billing is off",Billing
+"I was billed for a smart toothbrush's personalized coaching I didn't want",Billing
+"Need clarification on my smart shoes' step tracking subscription charge",Billing
+"My smart umbrella's weather alert subscription bill is wrong",Billing
+"The smart wallet's transaction history premium feature was billed twice",Billing
+"My smart suitcase's GPS tracking service was billed incorrectly",Billing
+"Smart home device arrived broken",Complaint
+"My smart speaker has terrible audio quality",Complaint
+"The smart thermostat keeps losing connection",Complaint
+"My smart lighting system is flickering constantly",Complaint
+"The security camera image quality is grainy",Complaint
+"Voice assistant is not understanding my commands",Complaint
+"Smart plug overheated and stopped working",Complaint
+"My smart lock failed to secure my door",Complaint
+"Can't get my smart speaker to play music",Complaint
+"The app for my smart appliance is buggy",Complaint
+"Smart sensor isn't detecting anything",Complaint
+"My smart display has a dead pixel",Complaint
+"The smart doorbell camera is blurry",Complaint
+"Automated routine is not executing as programmed",Complaint
+"My smart pet feeder is dispensing too much food",Complaint
+"The smart mirror is unresponsive to touch",Complaint
+"Smart sprinkler system is leaking",Complaint
+"My smart blinds are making a loud noise",Complaint
+"The smart aroma diffuser stopped diffusing scent",Complaint
+"Smart tracking device is inaccurate",Complaint
+"My smart scale is giving inconsistent readings",Complaint
+"The smart fan is rattling",Complaint
+"My smart coffee maker isn't brewing coffee properly",Complaint
+"Smart oven isn't reaching desired temperature",Complaint
+"My smart refrigerator's ice maker is broken",Complaint
+"The smart washing machine is making a grinding noise",Complaint
+"Smart dryer isn't completely drying clothes",Complaint
+"My smart dishwasher is leaving food residue",Complaint
+"The smart vacuum cleaner is getting stuck everywhere",Complaint
+"Smart robot is malfunctioning",Complaint
+"My smart TV keeps freezing",Complaint
+"Streaming device is buffering constantly",Complaint
+"The remote control for my smart device broke easily",Complaint
+"Smart home hub keeps disconnecting from the network",Complaint
+"My smart garden sensor isn't watering plants enough",Complaint
+"The smart air purifier is loud and ineffective",Complaint
+"My smart water leak detector gave a false alarm",Complaint
+"Smart baby monitor has poor night vision",Complaint
+"The smart smoke detector goes off randomly",Complaint
+"My smart CO detector is giving false positives",Complaint
+"Smart window isn't sealing properly",Complaint
+"The smart bed is uncomfortable",Complaint
+"My smart fitness equipment is inaccurate with readings",Complaint
+"Smart guitar isn't holding its tune",Complaint
+"The smart skateboard battery dies too fast",Complaint
+"My smart helmet's communication system isn't clear",Complaint
+"Smart bicycle's gears are slipping",Complaint
+"The smart drone crashed on its first flight",Complaint
+"My smart toy broke after minimal use",Complaint
+"Smart pen's ink runs out too quickly",Complaint
+"Where can I find tutorials for my smart home device?",General
+"How do I connect my smart speaker to Wi-Fi?",General
+"What smart home platforms are compatible with your thermostat?",General
+"Can I integrate my smart lighting with other brands?",General
+"How do I view recorded footage from my security camera?",General
+"What commands can I use with your voice assistant?",General
+"Is my smart plug compatible with high-power appliances?",General
+"How do I share access to my smart lock with family?",General
+"What music services are available on your smart speaker?",General
+"Where can I download the app for my smart appliance?",General
+"How do I change the sensitivity of my smart sensor?",General
+"Can I cast videos to my smart display?",General
+"How do I install my smart doorbell?",General
+"What kind of automated routines can I set up?",General
+"How often should I refill my smart pet feeder?",General
+"What features does the smart mirror offer?",General
+"How do I set a watering schedule for my smart sprinkler?",General
+"Can I control my smart blinds with voice commands?",General
+"What types of essential oils can I use with the smart aroma diffuser?",General
+"How accurate is the GPS on your smart tracking device?",General
+"How do I calibrate my smart scale?",General
+"Can I control the smart fan with a remote?",General
+"How do I clean my smart coffee maker?",General
+"What cooking modes are available on the smart oven?",General
+"How do I enable the smart features on my refrigerator?",General
+"What is the maximum load capacity for the smart washing machine?",General
+"How do I clean the lint trap on my smart dryer?",General
+"What kind of detergent should I use with my smart dishwasher?",General
+"How do I map my house for the smart vacuum cleaner?",General
+"Can I program custom actions for my smart robot?",General
+"What streaming apps are supported on your smart TV?",General
+"How do I troubleshoot my streaming device?",General
+"Where can I buy replacement remotes for my smart device?",General
+"How do I reset my smart home hub?",General
+"What kind of plants are suitable for the smart garden sensor?",General
+"How often should I change the filter on my smart air purifier?",General
+"Where should I place my smart water leak detector?",General
+"What's the range of the smart baby monitor?",General
+"How do I test my smart smoke detector?",General
+"What should I do if my smart CO detector alarms?",General
+"Can I manually open and close my smart window?",General
+"What are the different modes on the smart bed?",General
+"How do I connect my smart fitness equipment to my phone?",General
+"What apps are compatible with the smart guitar?",General
+"How do I charge my smart skateboard?",General
+"Can I answer calls through my smart helmet?",General
+"How do I record my rides with the smart bicycle?",General
+"What safety features does the smart drone have?",General
+"How do I update the firmware on my smart toy?",General
+"What kind of paper works best with the smart pen?",General
+"Appreciate the excellent service received",Other
+"Very pleased with the help provided",Other
+"Thanks for the outstanding support",Other
+"Great experience, truly helpful",Other
+"I'm impressed with the swift resolution",Other
+"Couldn't be happier with the assistance",Other
+"Highly recommend your customer care",Other
+"You guys are doing an amazing job",Other
+"Wonderful interaction, thank you so much",Other
+"My query was handled perfectly",Other
+"A big thank you to the entire team",Other
+"It was a pleasure getting your support",Other
+"You absolutely exceeded my expectations",Other
+"I'm very thankful for your dedicated help",Other
+"Keep up the fantastic work!",Other
+"This was a truly smooth process",Other
+"Fantastic job, deeply appreciated",Other
+"Your support team is invaluable",Other
+"The best service experience I've had",Other
+"I'm a thoroughly satisfied customer",Other
+"Thanks for all the extra effort",Other
+"You brightened my day, thank you",Other
+"So glad I chose your company",Other
+"Exceptional assistance from start to finish",Other
+"My concern was addressed with great care",Other
+"Very professional and extremely polite",Other
+"Couldn't be more content with the outcome",Other
+"You've gained a loyal advocate",Other
+"Outstanding support, truly remarkable",Other
+"I'll certainly recommend your services",Other
+"Thanks for the incredibly quick response",Other
+"You're a true asset to the organization",Other
+"My sincere thanks for your patience",Other
+"This was a genuinely positive experience",Other
+"Your help was absolutely invaluable",Other
+"Highly satisfied with how this was handled",Other
+"You've set a new standard for service",Other
+"What a truly great interaction!",Other
+"Thank you for being so understanding",Other
+"Your promptness was truly impressive",Other
+"I'm incredibly happy with the assistance",Other
+"This was surprisingly easy and straightforward",Other
+"You made everything clear and simple to follow",Other
+"Thanks for rectifying the situation",Other
+"I truly appreciate your commitment",Other
+"You're doing excellent work",Other
+"This assistance was a real lifesaver",Other
+"Couldn't have solved it without your guidance",Other
+"You were an absolute pleasure to interact with",Other
+"Fantastic overall customer experience",Other
+"Need help with my smart home device",Technical
+"My wearable device is not syncing data",Technical
+"The smart thermostat isn't responding",Technical
+"Trouble connecting my smart lighting system",Technical
+"My security camera feed is black",Technical
+"Voice assistant isn't recognizing commands",Technical
+"Smart plug is not turning on/off",Technical
+"My smart lock isn't locking/unlocking remotely",Technical
+"Can't pair my smart speaker",Technical
+"The app for my smart appliance keeps crashing",Technical
+"Smart sensor isn't detecting motion",Technical
+"My smart display is showing incorrect time",Technical
+"The smart doorbell isn't ringing through the app",Technical
