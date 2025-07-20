@@ -1,7 +1,7 @@
 import pyrebase
 
 firebase_config = {
-  "apiKey": "AIzaSyCZe2or27SdIO-_1hVtf0xV8e8RsQODO_M",
+  "apiKey": "APIKEY",
   "authDomain": "smart-25f64.firebaseapp.com",
   "projectId": "smart-25f64",
   "storageBucket": "smart-25f64.firebasestorage.app",
